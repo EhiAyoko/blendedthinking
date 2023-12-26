@@ -7,3 +7,16 @@
   align-items: center;
   justify-content: center; 
 }
+.bg-row {
+  background-image: url('images/simpledesk.jpg'); 
+  background-size: cover;
+  padding: 3rem;
+}
+.btn-custom {
+  background-color: #1d94a4;
+  border-color: #1d94a4; 
+  color: white;
+}
+.bg-custom {
+  background-color: #1d94a4;
+}
